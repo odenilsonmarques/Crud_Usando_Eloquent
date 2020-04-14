@@ -4,7 +4,7 @@ Este projeto teve como propósito colocar em prática os conhecimento adquiridos
 
 Também foi utilizado o template AdminLte para deixar a layout mas agradável
 
-A ideia basica é cadastar, alterar, listar e remover determinada tarefa
+A ideia basica é cadastar, alterar, listar e remover determinada contato
 
 
 
